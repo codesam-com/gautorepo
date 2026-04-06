@@ -1,0 +1,26 @@
+name: Orchestrator
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+
+jobs:
+  run-agent:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Initialize cycle
+        run: |
+          echo "Starting autonomous cycle"
+
+      - name: Placeholder agent execution
+        run: |
+          echo "Agent logic will be implemented here"
+
+      - name: End cycle
+        run: |
+          echo "Cycle complete"
