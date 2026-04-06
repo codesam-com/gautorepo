@@ -1,0 +1,31 @@
+name: Orchestrator Main
+
+on:
+#  schedule:
+#    - cron: '*/10 * * * *'
+  workflow_dispatch:
+
+jobs:
+  run-agent:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run agent cycle
+        run: |
+          python agent/run_cycle.py
+
+      - name: Save repo changes
+        run: |
+          git config user.name "gautorepo-bot"
+          git config user.email "bot@gautorepo.local"
+          git add .
+          git commit -m "autonomous cycle update" || echo "No changes to commit"
+          git push
