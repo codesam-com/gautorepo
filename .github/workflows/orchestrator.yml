@@ -1,4 +1,4 @@
-name: Orchestrator Main
+name: Orchestrator
 
 on:
 #  schedule:
