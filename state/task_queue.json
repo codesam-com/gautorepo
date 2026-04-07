@@ -20,10 +20,11 @@
     {
       "id": "task-define-checks",
       "title": "Definir comprobaciones de consecución",
-      "status": "pending",
+      "status": "done",
       "reason": "Necesario para justificar cumplimiento futuro del objetivo",
       "derived_from": "Usa este contenido como objetivo de prueba para validar el comportamiento autónomo del repo.",
-      "priority": "high"
+      "priority": "high",
+      "execution_note": "Executed by priority-aware executor"
     },
     {
       "id": "task-subgoal-1",

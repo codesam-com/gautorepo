@@ -8,12 +8,11 @@ Status: NOT VERIFIED
 - Goal interpretation present: True
 - Goal present criterion passed: True
 - Evidence present: True
-- Pending tasks remaining: 26
-- Completed tasks recorded: 2
+- Pending tasks remaining: 25
+- Completed tasks recorded: 3
 
 ## Pending tasks blocking completion
 - task-interpret-goal: Interpretar objetivo actual
-- task-define-checks: Definir comprobaciones de consecución
 - task-subgoal-1: Trabajar subobjetivo 1
 - task-subgoal-2: Trabajar subobjetivo 2
 - task-subgoal-3: Trabajar subobjetivo 3
