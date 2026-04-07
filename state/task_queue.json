@@ -5,227 +5,154 @@
       "title": "Interpretar objetivo actual",
       "status": "pending",
       "reason": "Necesario para convertir la instrucción del usuario en plan operativo",
-      "derived_from": "Usa este contenido como objetivo de prueba para validar el comportamiento autónomo del repo.",
-      "priority": "high"
+      "derived_from": "Quiero que el repo diseñe, construya y deje operativa una mini solución autónoma dentro del propio repositorio para gestionar una lista priorizada de ideas de viaje en formato markdown, convertirla a datos estructurados, evaluarla con reglas simples y generar un informe final legible para una persona.",
+      "priority": "high",
+      "category": "core"
     },
     {
       "id": "task-build-plan",
       "title": "Construir plan inicial",
       "status": "done",
       "reason": "Necesario para organizar la ejecución autónoma",
-      "derived_from": "Usa este contenido como objetivo de prueba para validar el comportamiento autónomo del repo.",
+      "derived_from": "Quiero que el repo diseñe, construya y deje operativa una mini solución autónoma dentro del propio repositorio para gestionar una lista priorizada de ideas de viaje en formato markdown, convertirla a datos estructurados, evaluarla con reglas simples y generar un informe final legible para una persona.",
       "priority": "high",
+      "category": "core",
       "execution_note": "Executed by priority-aware executor"
     },
     {
       "id": "task-define-checks",
       "title": "Definir comprobaciones de consecución",
-      "status": "done",
+      "status": "pending",
       "reason": "Necesario para justificar cumplimiento futuro del objetivo",
-      "derived_from": "Usa este contenido como objetivo de prueba para validar el comportamiento autónomo del repo.",
-      "priority": "high",
-      "execution_note": "Executed by priority-aware executor"
-    },
-    {
-      "id": "task-subgoal-1",
-      "title": "Trabajar subobjetivo 1",
-      "status": "pending",
-      "reason": "Subobjetivo detectado en la interpretación semántica",
       "derived_from": "Quiero que el repo diseñe, construya y deje operativa una mini solución autónoma dentro del propio repositorio para gestionar una lista priorizada de ideas de viaje en formato markdown, convertirla a datos estructurados, evaluarla con reglas simples y generar un informe final legible para una persona.",
-      "priority": "medium"
+      "priority": "high",
+      "category": "verification"
     },
     {
-      "id": "task-subgoal-2",
-      "title": "Trabajar subobjetivo 2",
+      "id": "task-deliverable-1",
+      "title": "Implementar entregable 1",
       "status": "pending",
-      "reason": "Subobjetivo detectado en la interpretación semántica",
+      "reason": "Entregable detectado en la interpretación estructurada del objetivo",
       "derived_from": "1. Un archivo de entrada sencillo para usuario, editable a mano.",
-      "priority": "medium"
+      "priority": "high",
+      "category": "deliverable"
     },
     {
-      "id": "task-subgoal-3",
-      "title": "Trabajar subobjetivo 3",
+      "id": "task-deliverable-2",
+      "title": "Implementar entregable 2",
       "status": "pending",
-      "reason": "Subobjetivo detectado en la interpretación semántica",
+      "reason": "Entregable detectado en la interpretación estructurada del objetivo",
       "derived_from": "2. Un parser que convierta ese archivo a JSON estructurado.",
-      "priority": "medium"
+      "priority": "high",
+      "category": "deliverable"
     },
     {
-      "id": "task-subgoal-4",
-      "title": "Trabajar subobjetivo 4",
+      "id": "task-deliverable-3",
+      "title": "Implementar entregable 3",
       "status": "pending",
-      "reason": "Subobjetivo detectado en la interpretación semántica",
+      "reason": "Entregable detectado en la interpretación estructurada del objetivo",
       "derived_from": "3. Un sistema de validación que detecte errores de formato o campos vacíos.",
-      "priority": "medium"
+      "priority": "high",
+      "category": "deliverable"
     },
     {
-      "id": "task-subgoal-5",
-      "title": "Trabajar subobjetivo 5",
+      "id": "task-deliverable-4",
+      "title": "Implementar entregable 4",
       "status": "pending",
-      "reason": "Subobjetivo detectado en la interpretación semántica",
+      "reason": "Entregable detectado en la interpretación estructurada del objetivo",
       "derived_from": "4. Un sistema de priorización simple con reglas explícitas.",
-      "priority": "medium"
+      "priority": "medium",
+      "category": "deliverable"
     },
     {
-      "id": "task-subgoal-6",
-      "title": "Trabajar subobjetivo 6",
+      "id": "task-deliverable-5",
+      "title": "Implementar entregable 5",
       "status": "pending",
-      "reason": "Subobjetivo detectado en la interpretación semántica",
+      "reason": "Entregable detectado en la interpretación estructurada del objetivo",
       "derived_from": "5. Un informe final en markdown que resuma:",
-      "priority": "medium"
+      "priority": "medium",
+      "category": "deliverable"
     },
     {
-      "id": "task-subgoal-7",
-      "title": "Trabajar subobjetivo 7",
+      "id": "task-deliverable-6",
+      "title": "Implementar entregable 6",
       "status": "pending",
-      "reason": "Subobjetivo detectado en la interpretación semántica",
-      "derived_from": "- ideas válidas",
-      "priority": "medium"
+      "reason": "Entregable detectado en la interpretación estructurada del objetivo",
+      "derived_from": "ideas válidas",
+      "priority": "medium",
+      "category": "deliverable"
     },
     {
-      "id": "task-subgoal-8",
-      "title": "Trabajar subobjetivo 8",
+      "id": "task-deliverable-7",
+      "title": "Implementar entregable 7",
       "status": "pending",
-      "reason": "Subobjetivo detectado en la interpretación semántica",
-      "derived_from": "- ideas inválidas",
-      "priority": "medium"
+      "reason": "Entregable detectado en la interpretación estructurada del objetivo",
+      "derived_from": "ideas inválidas",
+      "priority": "medium",
+      "category": "deliverable"
     },
     {
-      "id": "task-subgoal-9",
-      "title": "Trabajar subobjetivo 9",
+      "id": "task-deliverable-8",
+      "title": "Implementar entregable 8",
       "status": "pending",
-      "reason": "Subobjetivo detectado en la interpretación semántica",
-      "derived_from": "- ranking final",
-      "priority": "medium"
+      "reason": "Entregable detectado en la interpretación estructurada del objetivo",
+      "derived_from": "ranking final",
+      "priority": "medium",
+      "category": "deliverable"
     },
     {
-      "id": "task-subgoal-10",
-      "title": "Trabajar subobjetivo 10",
+      "id": "task-deliverable-9",
+      "title": "Implementar entregable 9",
       "status": "pending",
-      "reason": "Subobjetivo detectado en la interpretación semántica",
-      "derived_from": "- explicación del ranking",
-      "priority": "medium"
+      "reason": "Entregable detectado en la interpretación estructurada del objetivo",
+      "derived_from": "explicación del ranking",
+      "priority": "medium",
+      "category": "deliverable"
     },
     {
-      "id": "task-subgoal-11",
-      "title": "Trabajar subobjetivo 11",
+      "id": "task-deliverable-10",
+      "title": "Implementar entregable 10",
       "status": "pending",
-      "reason": "Subobjetivo detectado en la interpretación semántica",
+      "reason": "Entregable detectado en la interpretación estructurada del objetivo",
       "derived_from": "6. Un pequeño conjunto de comprobaciones que permitan al repo justificar que ha cumplido el objetivo.",
-      "priority": "medium"
-    },
-    {
-      "id": "task-subgoal-12",
-      "title": "Trabajar subobjetivo 12",
-      "status": "pending",
-      "reason": "Subobjetivo detectado en la interpretación semántica",
-      "derived_from": "- Si el repo necesita pedirme algo, debe explicarlo de forma clara y paso a paso.",
-      "priority": "medium"
-    },
-    {
-      "id": "task-subgoal-13",
-      "title": "Trabajar subobjetivo 13",
-      "status": "pending",
-      "reason": "Subobjetivo detectado en la interpretación semántica",
-      "derived_from": "- Debe interpretar este objetivo y convertirlo en subtareas.",
-      "priority": "medium"
-    },
-    {
-      "id": "task-subgoal-14",
-      "title": "Trabajar subobjetivo 14",
-      "status": "pending",
-      "reason": "Subobjetivo detectado en la interpretación semántica",
-      "derived_from": "- Debe crear sus propias comprobaciones de consecución.",
-      "priority": "medium"
-    },
-    {
-      "id": "task-subgoal-15",
-      "title": "Trabajar subobjetivo 15",
-      "status": "pending",
-      "reason": "Subobjetivo detectado en la interpretación semántica",
-      "derived_from": "- Debe autoevaluarse durante el proceso.",
-      "priority": "medium"
-    },
-    {
-      "id": "task-subgoal-16",
-      "title": "Trabajar subobjetivo 16",
-      "status": "pending",
-      "reason": "Subobjetivo detectado en la interpretación semántica",
-      "derived_from": "- Debe dejar trazabilidad auditable.",
-      "priority": "medium"
-    },
-    {
-      "id": "task-subgoal-17",
-      "title": "Trabajar subobjetivo 17",
-      "status": "pending",
-      "reason": "Subobjetivo detectado en la interpretación semántica",
-      "derived_from": "- Debe generar peticiones de limpieza manual si detecta archivos obsoletos.",
-      "priority": "medium"
-    },
-    {
-      "id": "task-subgoal-18",
-      "title": "Trabajar subobjetivo 18",
-      "status": "pending",
-      "reason": "Subobjetivo detectado en la interpretación semántica",
-      "derived_from": "- Debe entrar en modo de detención si considera que el objetivo ha sido cumplido y puede justificarlo.",
-      "priority": "medium"
-    },
-    {
-      "id": "task-subgoal-19",
-      "title": "Trabajar subobjetivo 19",
-      "status": "pending",
-      "reason": "Subobjetivo detectado en la interpretación semántica",
-      "derived_from": "El repo puede crear un archivo de ejemplo con ideas como:",
-      "priority": "medium"
-    },
-    {
-      "id": "task-subgoal-20",
-      "title": "Trabajar subobjetivo 20",
-      "status": "pending",
-      "reason": "Subobjetivo detectado en la interpretación semántica",
-      "derived_from": "Consideraré que el repo funciona bien si consigue:",
-      "priority": "medium"
-    },
-    {
-      "id": "task-subgoal-21",
-      "title": "Trabajar subobjetivo 21",
-      "status": "pending",
-      "reason": "Subobjetivo detectado en la interpretación semántica",
-      "derived_from": "- descomponer correctamente el objetivo",
-      "priority": "medium"
-    },
-    {
-      "id": "task-subgoal-22",
-      "title": "Trabajar subobjetivo 22",
-      "status": "pending",
-      "reason": "Subobjetivo detectado en la interpretación semántica",
-      "derived_from": "- producir una salida estructurada y legible",
-      "priority": "medium"
-    },
-    {
-      "id": "task-subgoal-23",
-      "title": "Trabajar subobjetivo 23",
-      "status": "pending",
-      "reason": "Subobjetivo detectado en la interpretación semántica",
-      "derived_from": "- justificar con informes por qué cree que lo ha cumplido",
-      "priority": "medium"
-    },
-    {
-      "id": "task-subgoal-24",
-      "title": "Trabajar subobjetivo 24",
-      "status": "pending",
-      "reason": "Subobjetivo detectado en la interpretación semántica",
-      "derived_from": "Si este archivo se usa como objetivo activo, el repo debe intentar resolverlo de forma autónoma por ciclos hasta completarlo o hasta que el usuario cambie las instrucciones.",
-      "priority": "medium"
+      "priority": "medium",
+      "category": "deliverable"
     },
     {
       "id": "task-check-constraints",
       "title": "Verificar restricciones activas",
-      "status": "done",
+      "status": "pending",
       "reason": "Hay restricciones detectadas que deben respetarse durante la ejecución",
-      "derived_from": "- Todo debe ser gratuito y sin billing.; - No usar servicios externos de pago.; - No depender de secretos privados.; - No romper el core protegido.; - Mantener el repo limpio y sin archivos basura.; - Debe detectar si alguna tarea no aporta valor y replanificar.; - Viaje a Lisboa | presupuesto: bajo | duración: 3 días | prioridad personal: alta; - Viaje a Tokio | presupuesto: alto | duración: 10 días | prioridad personal: media; - Viaje sin destino | presupuesto: | duración:  | prioridad personal: baja; - Escapada rural | presupuesto: medio | duración: 2 días | prioridad personal: alta; - crear archivos útiles sin ensuciar el repo; - no quedarse bloqueado sin motivo",
+      "derived_from": "Todo debe ser gratuito y sin billing.; No usar servicios externos de pago.; No depender de secretos privados.; No romper el core protegido.; Mantener el repo limpio y sin archivos basura.; Si el repo necesita pedirme algo, debe explicarlo de forma clara y paso a paso.",
       "priority": "high",
-      "execution_note": "Executed by priority-aware executor"
+      "category": "constraints"
+    },
+    {
+      "id": "task-check-behavior",
+      "title": "Verificar requisitos de comportamiento",
+      "status": "pending",
+      "reason": "El sistema debe respetar los requisitos de comportamiento definidos por el usuario",
+      "derived_from": "Debe interpretar este objetivo y convertirlo en subtareas.; Debe crear sus propias comprobaciones de consecución.; Debe autoevaluarse durante el proceso.; Debe detectar si alguna tarea no aporta valor y replanificar.; Debe dejar trazabilidad auditable.; Debe generar peticiones de limpieza manual si detecta archivos obsoletos.; Debe entrar en modo de detención si considera que el objetivo ha sido cumplido y puede justificarlo.",
+      "priority": "medium",
+      "category": "behavior"
+    },
+    {
+      "id": "task-map-success-criteria",
+      "title": "Mapear criterio de éxito a comprobaciones",
+      "status": "pending",
+      "reason": "Necesario para alinear el cierre con el criterio de éxito esperado",
+      "derived_from": "Consideraré que el repo funciona bien si consigue:; descomponer correctamente el objetivo; crear archivos útiles sin ensuciar el repo; producir una salida estructurada y legible; justificar con informes por qué cree que lo ha cumplido; no quedarse bloqueado sin motivo",
+      "priority": "medium",
+      "category": "verification"
+    },
+    {
+      "id": "task-materialize-test-data",
+      "title": "Materializar datos de prueba",
+      "status": "pending",
+      "reason": "Hay datos de prueba sugeridos que pueden convertirse en artefactos ejecutables",
+      "derived_from": "El repo puede crear un archivo de ejemplo con ideas como:; Viaje a Lisboa | presupuesto: bajo | duración: 3 días | prioridad personal: alta; Viaje a Tokio | presupuesto: alto | duración: 10 días | prioridad personal: media; Viaje sin destino | presupuesto: | duración:  | prioridad personal: baja; Escapada rural | presupuesto: medio | duración: 2 días | prioridad personal: alta",
+      "priority": "medium",
+      "category": "test_data"
     }
   ]
 }

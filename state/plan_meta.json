@@ -1,8 +1,5 @@
 {
-  "status": "not_achieved",
+  "interpretation_signature": "cc916f5c4160ce8c5c44ca39cebae81cdf5483321363e5b9210e8bb414fd8738",
   "primary_goal": "Quiero que el repo diseñe, construya y deje operativa una mini solución autónoma dentro del propio repositorio para gestionar una lista priorizada de ideas de viaje en formato markdown, convertirla a datos estructurados, evaluarla con reglas simples y generar un informe final legible para una persona.",
-  "goal_present": true,
-  "evidence_present": true,
-  "pending_tasks": 16,
-  "completed_tasks": 1
+  "task_count": 17
 }
