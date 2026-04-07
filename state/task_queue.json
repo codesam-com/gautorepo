@@ -69,49 +69,13 @@
       "title": "Implementar entregable 5",
       "status": "pending",
       "reason": "Entregable detectado en la interpretación estructurada del objetivo",
-      "derived_from": "5. Un informe final en markdown que resuma:",
+      "derived_from": "5. Un informe final en markdown que incluya: ideas válidas; ideas inválidas; ranking final; explicación del ranking",
       "priority": "medium",
       "category": "deliverable"
     },
     {
       "id": "task-deliverable-6",
       "title": "Implementar entregable 6",
-      "status": "pending",
-      "reason": "Entregable detectado en la interpretación estructurada del objetivo",
-      "derived_from": "ideas válidas",
-      "priority": "medium",
-      "category": "deliverable"
-    },
-    {
-      "id": "task-deliverable-7",
-      "title": "Implementar entregable 7",
-      "status": "pending",
-      "reason": "Entregable detectado en la interpretación estructurada del objetivo",
-      "derived_from": "ideas inválidas",
-      "priority": "medium",
-      "category": "deliverable"
-    },
-    {
-      "id": "task-deliverable-8",
-      "title": "Implementar entregable 8",
-      "status": "pending",
-      "reason": "Entregable detectado en la interpretación estructurada del objetivo",
-      "derived_from": "ranking final",
-      "priority": "medium",
-      "category": "deliverable"
-    },
-    {
-      "id": "task-deliverable-9",
-      "title": "Implementar entregable 9",
-      "status": "pending",
-      "reason": "Entregable detectado en la interpretación estructurada del objetivo",
-      "derived_from": "explicación del ranking",
-      "priority": "medium",
-      "category": "deliverable"
-    },
-    {
-      "id": "task-deliverable-10",
-      "title": "Implementar entregable 10",
       "status": "pending",
       "reason": "Entregable detectado en la interpretación estructurada del objetivo",
       "derived_from": "6. Un pequeño conjunto de comprobaciones que permitan al repo justificar que ha cumplido el objetivo.",

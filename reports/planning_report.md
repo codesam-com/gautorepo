@@ -2,18 +2,14 @@
 
 Primary goal: Quiero que el repo diseñe, construya y deje operativa una mini solución autónoma dentro del propio repositorio para gestionar una lista priorizada de ideas de viaje en formato markdown, convertirla a datos estructurados, evaluarla con reglas simples y generar un informe final legible para una persona.
 
-Interpretation signature: cc916f5c4160ce8c5c44ca39cebae81cdf5483321363e5b9210e8bb414fd8738
+Interpretation signature: ee16775b989a295357b59c7729710142471ec8ab4d4f30c7821162c8ab4da405
 
 ## Deliverables
 - 1. Un archivo de entrada sencillo para usuario, editable a mano.
 - 2. Un parser que convierta ese archivo a JSON estructurado.
 - 3. Un sistema de validación que detecte errores de formato o campos vacíos.
 - 4. Un sistema de priorización simple con reglas explícitas.
-- 5. Un informe final en markdown que resuma:
-- ideas válidas
-- ideas inválidas
-- ranking final
-- explicación del ranking
+- 5. Un informe final en markdown que incluya: ideas válidas; ideas inválidas; ranking final; explicación del ranking
 - 6. Un pequeño conjunto de comprobaciones que permitan al repo justificar que ha cumplido el objetivo.
 
 ## Constraints
@@ -58,10 +54,6 @@ Interpretation signature: cc916f5c4160ce8c5c44ca39cebae81cdf5483321363e5b9210e8b
 - task-deliverable-4: Implementar entregable 4 [medium] (deliverable)
 - task-deliverable-5: Implementar entregable 5 [medium] (deliverable)
 - task-deliverable-6: Implementar entregable 6 [medium] (deliverable)
-- task-deliverable-7: Implementar entregable 7 [medium] (deliverable)
-- task-deliverable-8: Implementar entregable 8 [medium] (deliverable)
-- task-deliverable-9: Implementar entregable 9 [medium] (deliverable)
-- task-deliverable-10: Implementar entregable 10 [medium] (deliverable)
 - task-check-constraints: Verificar restricciones activas [high] (constraints)
 - task-check-behavior: Verificar requisitos de comportamiento [medium] (behavior)
 - task-map-success-criteria: Mapear criterio de éxito a comprobaciones [medium] (verification)

@@ -5,11 +5,7 @@
     "2. Un parser que convierta ese archivo a JSON estructurado.",
     "3. Un sistema de validación que detecte errores de formato o campos vacíos.",
     "4. Un sistema de priorización simple con reglas explícitas.",
-    "5. Un informe final en markdown que resuma:",
-    "ideas válidas",
-    "ideas inválidas",
-    "ranking final",
-    "explicación del ranking",
+    "5. Un informe final en markdown que incluya: ideas válidas; ideas inválidas; ranking final; explicación del ranking",
     "6. Un pequeño conjunto de comprobaciones que permitan al repo justificar que ha cumplido el objetivo."
   ],
   "constraints": [
@@ -51,11 +47,7 @@
     "2. Un parser que convierta ese archivo a JSON estructurado.",
     "3. Un sistema de validación que detecte errores de formato o campos vacíos.",
     "4. Un sistema de priorización simple con reglas explícitas.",
-    "5. Un informe final en markdown que resuma:",
-    "ideas válidas",
-    "ideas inválidas",
-    "ranking final",
-    "explicación del ranking",
+    "5. Un informe final en markdown que incluya: ideas válidas; ideas inválidas; ranking final; explicación del ranking",
     "6. Un pequeño conjunto de comprobaciones que permitan al repo justificar que ha cumplido el objetivo."
   ],
   "has_goal": true
