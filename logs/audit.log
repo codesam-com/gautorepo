@@ -11,3 +11,4 @@ Executed task-deliverable-3 | realized=True
 Executed task-deliverable-4 | realized=False
 Executed task-deliverable-5 | category=deliverable | realized=False | completed=False
 Executed task-deliverable-4 | category=deliverable | realized=False | completed=False
+Executed task-deliverable-4 | category=deliverable | realized=True | completed=True

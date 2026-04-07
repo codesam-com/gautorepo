@@ -1,0 +1,25 @@
+{
+  "ranked": [
+    {
+      "destino": "Lisboa",
+      "presupuesto": "bajo",
+      "duracion": "3 dias",
+      "prioridad": "alta",
+      "score": 6
+    },
+    {
+      "destino": "Escapada rural",
+      "presupuesto": "medio",
+      "duracion": "2 dias",
+      "prioridad": "alta",
+      "score": 5
+    },
+    {
+      "destino": "Tokio",
+      "presupuesto": "alto",
+      "duracion": "10 dias",
+      "prioridad": "media",
+      "score": 3
+    }
+  ]
+}

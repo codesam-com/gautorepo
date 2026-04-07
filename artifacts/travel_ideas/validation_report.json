@@ -1,4 +1,36 @@
 {
-  "valid": [],
-  "invalid": []
+  "valid": [
+    {
+      "destino": "Lisboa",
+      "presupuesto": "bajo",
+      "duracion": "3 dias",
+      "prioridad": "alta"
+    },
+    {
+      "destino": "Tokio",
+      "presupuesto": "alto",
+      "duracion": "10 dias",
+      "prioridad": "media"
+    },
+    {
+      "destino": "Escapada rural",
+      "presupuesto": "medio",
+      "duracion": "2 dias",
+      "prioridad": "alta"
+    }
+  ],
+  "invalid": [
+    {
+      "item": {
+        "destino": "Sin destino",
+        "presupuesto": "",
+        "duracion": "",
+        "prioridad": "baja"
+      },
+      "missing": [
+        "presupuesto",
+        "duracion"
+      ]
+    }
+  ]
 }
