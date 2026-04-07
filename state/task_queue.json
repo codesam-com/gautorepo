@@ -41,11 +41,12 @@
     {
       "id": "task-deliverable-2",
       "title": "Implementar entregable 2",
-      "status": "pending",
+      "status": "done",
       "reason": "Entregable detectado en la interpretación estructurada del objetivo",
       "derived_from": "2. Un parser que convierta ese archivo a JSON estructurado.",
       "priority": "high",
-      "category": "deliverable"
+      "category": "deliverable",
+      "execution_note": "Executed with artifact realization"
     },
     {
       "id": "task-deliverable-3",

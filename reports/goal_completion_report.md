@@ -8,13 +8,12 @@ Status: NOT VERIFIED
 - Goal interpretation present: True
 - Goal present criterion passed: True
 - Evidence present: True
-- Pending tasks remaining: 11
-- Completed tasks recorded: 2
+- Pending tasks remaining: 10
+- Completed tasks recorded: 3
 
 ## Pending tasks blocking completion
 - task-interpret-goal: Interpretar objetivo actual
 - task-define-checks: Definir comprobaciones de consecución
-- task-deliverable-2: Implementar entregable 2
 - task-deliverable-3: Implementar entregable 3
 - task-deliverable-4: Implementar entregable 4
 - task-deliverable-5: Implementar entregable 5
