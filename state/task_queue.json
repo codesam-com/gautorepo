@@ -75,7 +75,8 @@
       "reason": "Entregable detectado en la interpretación estructurada del objetivo",
       "derived_from": "5. Un informe final en markdown que incluya: ideas válidas; ideas inválidas; ranking final; explicación del ranking",
       "priority": "medium",
-      "category": "deliverable"
+      "category": "deliverable",
+      "execution_note": "Execution attempted but realization failed; task kept pending"
     },
     {
       "id": "task-deliverable-6",
