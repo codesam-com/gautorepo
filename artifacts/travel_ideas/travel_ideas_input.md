@@ -1,0 +1,6 @@
+# Ideas de viaje
+
+- destino: Lisboa | presupuesto: bajo | duracion: 3 dias | prioridad: alta
+- destino: Tokio | presupuesto: alto | duracion: 10 dias | prioridad: media
+- destino: Sin destino | presupuesto: | duracion: | prioridad: baja
+- destino: Escapada rural | presupuesto: medio | duracion: 2 dias | prioridad: alta
