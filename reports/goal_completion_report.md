@@ -1,6 +1,6 @@
 # Goal Completion Report
 
-Primary goal interpreted: Usa este contenido como objetivo de prueba para validar el comportamiento autónomo del repo.
+Primary goal interpreted: Quiero que el repo diseñe, construya y deje operativa una mini solución autónoma dentro del propio repositorio para gestionar una lista priorizada de ideas de viaje en formato markdown, convertirla a datos estructurados, evaluarla con reglas simples y generar un informe final legible para una persona.
 
 Status: NOT VERIFIED
 
@@ -8,8 +8,8 @@ Status: NOT VERIFIED
 - Goal interpretation present: True
 - Goal present criterion passed: True
 - Evidence present: True
-- Pending tasks remaining: 27
-- Completed tasks recorded: 1
+- Pending tasks remaining: 26
+- Completed tasks recorded: 2
 
 ## Pending tasks blocking completion
 - task-interpret-goal: Interpretar objetivo actual
@@ -38,4 +38,3 @@ Status: NOT VERIFIED
 - task-subgoal-22: Trabajar subobjetivo 22
 - task-subgoal-23: Trabajar subobjetivo 23
 - task-subgoal-24: Trabajar subobjetivo 24
-- task-check-constraints: Verificar restricciones activas

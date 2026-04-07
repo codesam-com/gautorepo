@@ -1,3 +1,4 @@
 # Audit log
 
 Executed task: task-build-plan - Construir plan inicial [priority=high]
+Executed task: task-check-constraints - Verificar restricciones activas [priority=high]

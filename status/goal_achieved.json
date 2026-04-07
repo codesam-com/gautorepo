@@ -1,8 +1,8 @@
 {
   "status": "not_achieved",
-  "primary_goal": "Usa este contenido como objetivo de prueba para validar el comportamiento autónomo del repo.",
+  "primary_goal": "Quiero que el repo diseñe, construya y deje operativa una mini solución autónoma dentro del propio repositorio para gestionar una lista priorizada de ideas de viaje en formato markdown, convertirla a datos estructurados, evaluarla con reglas simples y generar un informe final legible para una persona.",
   "goal_present": true,
   "evidence_present": true,
-  "pending_tasks": 27,
-  "completed_tasks": 1
+  "pending_tasks": 26,
+  "completed_tasks": 2
 }

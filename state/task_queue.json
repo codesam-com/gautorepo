@@ -220,10 +220,11 @@
     {
       "id": "task-check-constraints",
       "title": "Verificar restricciones activas",
-      "status": "pending",
+      "status": "done",
       "reason": "Hay restricciones detectadas que deben respetarse durante la ejecución",
       "derived_from": "- Todo debe ser gratuito y sin billing.; - No usar servicios externos de pago.; - No depender de secretos privados.; - No romper el core protegido.; - Mantener el repo limpio y sin archivos basura.; - Debe detectar si alguna tarea no aporta valor y replanificar.; - Viaje a Lisboa | presupuesto: bajo | duración: 3 días | prioridad personal: alta; - Viaje a Tokio | presupuesto: alto | duración: 10 días | prioridad personal: media; - Viaje sin destino | presupuesto: | duración:  | prioridad personal: baja; - Escapada rural | presupuesto: medio | duración: 2 días | prioridad personal: alta; - crear archivos útiles sin ensuciar el repo; - no quedarse bloqueado sin motivo",
-      "priority": "high"
+      "priority": "high",
+      "execution_note": "Executed by priority-aware executor"
     }
   ]
 }
