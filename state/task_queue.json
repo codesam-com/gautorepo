@@ -31,11 +31,12 @@
     {
       "id": "task-deliverable-1",
       "title": "Implementar entregable 1",
-      "status": "pending",
+      "status": "done",
       "reason": "Entregable detectado en la interpretación estructurada del objetivo",
       "derived_from": "1. Un archivo de entrada sencillo para usuario, editable a mano.",
       "priority": "high",
-      "category": "deliverable"
+      "category": "deliverable",
+      "execution_note": "Executed by product-oriented executor"
     },
     {
       "id": "task-deliverable-2",

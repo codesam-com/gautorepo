@@ -5,3 +5,4 @@ Executed task: task-check-constraints - Verificar restricciones activas [priorit
 Executed task: task-define-checks - Definir comprobaciones de consecución [priority=high]
 Executed task: task-build-plan - Construir plan inicial [priority=high]
 Executed task: task-build-plan - Construir plan inicial [priority=high]
+Executed task: task-deliverable-1 - Implementar entregable 1 [priority=high, category=deliverable]
