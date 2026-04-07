@@ -1,0 +1,5 @@
+REPO HYGIENE REPORT
+Canonical orchestrator: .github/workflows/orchestrator_main.yml
+LEGACY_WORKFLOW_PRESENT: .github/workflows/orchestrator.yml
+LEGACY_WORKFLOW_ABSENT: .github/workflows/orchestrator_v2.yml
+Recommended action: keep orchestrator_main as the protected canonical workflow and remove legacy orchestrators when deletion tooling is enabled.

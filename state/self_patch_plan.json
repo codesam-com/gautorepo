@@ -1,0 +1,16 @@
+{
+  "proposals": [
+    {
+      "id": "improve_goal_verification",
+      "target": "agent/goal_verifier.py",
+      "kind": "upgrade_candidate",
+      "reason": "A stricter verifier exists and should become canonical later"
+    },
+    {
+      "id": "review_cycle_cohesion",
+      "target": "agent/run_cycle.py",
+      "kind": "review_candidate",
+      "reason": "The canonical cycle should stay aligned with the latest capabilities"
+    }
+  ]
+}

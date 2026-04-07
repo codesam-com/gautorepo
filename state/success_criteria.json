@@ -1,0 +1,20 @@
+{
+  "goal_detected": true,
+  "criteria": [
+    {
+      "id": "criterion-goal-present",
+      "description": "Existe un objetivo explícito del usuario",
+      "status": "pass"
+    },
+    {
+      "id": "criterion-plan-exists",
+      "description": "Existe un plan operativo derivado del objetivo",
+      "status": "unknown"
+    },
+    {
+      "id": "criterion-checks-defined",
+      "description": "Existen comprobaciones de consecución del objetivo",
+      "status": "unknown"
+    }
+  ]
+}
