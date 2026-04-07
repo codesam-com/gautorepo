@@ -61,12 +61,12 @@
     {
       "id": "task-deliverable-4",
       "title": "Implementar entregable 4",
-      "status": "done",
+      "status": "pending",
       "reason": "Entregable detectado en la interpretación estructurada del objetivo",
       "derived_from": "4. Un sistema de priorización simple con reglas explícitas.",
       "priority": "medium",
       "category": "deliverable",
-      "execution_note": "Executed without artifact"
+      "execution_note": "Execution attempted but realization failed; task kept pending"
     },
     {
       "id": "task-deliverable-5",
